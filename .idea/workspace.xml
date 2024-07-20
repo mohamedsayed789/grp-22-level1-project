@@ -5,119 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e424a59-bc99-4237-83ec-373063855b0f" name="Changes" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_11.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_12.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_13.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_14.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_15.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_16.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_17.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_18.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_19.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/Exam/solve_program_20.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/condatinals_03/age_program02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/condatinals_03/emp_tax_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/condatinals_03/order_descount_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/addition_date_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/count_weakends_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/date_difference_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/date_time_operations_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/go_to_custom_date_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/date_time_10/working_day_count_06.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/dick_06/combine_dicts_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/dick_06/dick_operation_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/dick_06/lists_of_dicts_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/dick_06/loops_dict_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/dick_06/merge_lists_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/basic_01/read_date_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/basic_01/read_write_files_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/basic_01/write_date_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/from_excel_to_chart.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_excel_to_list_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_filter_excel_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/write_list_to_excel_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/files_lists_02/read_file_to_list_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/files_lists_02/write_list__to_file_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/formules_02/assgin_06.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/formules_02/circle_program_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/formules_02/sqrt_program_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/funcations_09/calculator_function_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/funcations_09/sum_even_numbers_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/funcations_09/test_functions_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/Count_occurrences_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_between_two_dates_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_range_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/oldest_date_01 .py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/the_same_month_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/dict/library_hw_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/dict/person_dict_hw_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/dict/shopping_cart_hw_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/dict/tuples_to_dict_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/Calculate_Sum_and_Average_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/csv_validate_password_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/specific_column_03..py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/validate_password_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm.ex.4.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm2.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm3.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm4.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm5.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hm6.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hw.ex.89999.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hw.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/formulas/hw7.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/max_min_numbers_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/palindrome_string_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/positive_numbers_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/prime_number_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/primes in range_06.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/functions/rectangle_area_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/age_program.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/bonus_hw_2.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/calculator_hw_3.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/emp_tax.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/grade_hw_1.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/if_condition/order_descount.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/lists/count_occurence_hw_3.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/lists/max_mi_list_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/lists/multiplty_list_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/lists/odd_even_hw_1.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/lists/swap_hw_2.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/loops/Loop_lists_2.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/loops/numbers_divisible_1.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/loops/program_to_construct_0.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/capitalize_first_last_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/count_word_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/order_string_06.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/palind_string_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/remove_dupl_words_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/string/upper_half_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/tuples/count_male_female_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/tuples/remove_duplicates_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/tuples/total_salary_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/intro_01/basic_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/intro_01/emp_date_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/element_exist_list_06.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/lists_loop_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/lists_operation_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/nested_list04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/pos_neg_list_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/remove_duplicate_list_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/loops_08/loops_operation_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/strings_07/password_validation_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/strings_07/remove_signs_04.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/strings_07/reverse_string_05.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/strings_07/string_operations_01.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/strings_07/swap_commes_03.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/tuples_05/ips_list_tuples_02.py" afterDir="false" />
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/tuples_05/tuples_operations_01.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,160 +30,161 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Calculate_Sum_and_Average_01.executor": "Run",
-    "Python.Count_occurrences_03.executor": "Run",
-    "Python.Loop_lists_2.executor": "Run",
-    "Python.addition_date_03.executor": "Run",
-    "Python.age_program.executor": "Run",
-    "Python.age_program02.executor": "Run",
-    "Python.assgin_06.executor": "Run",
-    "Python.average_01.executor": "Run",
-    "Python.basic_01.executor": "Run",
-    "Python.bonus_hw_2.executor": "Run",
-    "Python.calculator_function_02.executor": "Run",
-    "Python.calculator_hw_3.executor": "Run",
-    "Python.capitalize_first_last_02.executor": "Run",
-    "Python.capitalize_first_last_1.executor": "Run",
-    "Python.circle_program_02.executor": "Run",
-    "Python.combine_dicts_03.executor": "Run",
-    "Python.combine_dicts_04.executor": "Run",
-    "Python.count_male_female_03.executor": "Run",
-    "Python.count_occurence_hw_3.executor": "Run",
-    "Python.count_weakends_05.executor": "Run",
-    "Python.count_word_0.executor": "Run",
-    "Python.count_word_01.executor": "Run",
-    "Python.date_between_two_dates_02.executor": "Run",
-    "Python.date_difference_02.executor": "Run",
-    "Python.date_range_05.executor": "Run",
-    "Python.date_time_operations_01.executor": "Run",
-    "Python.dick_operation_01.executor": "Run",
-    "Python.element_exist_list_06.executor": "Run",
-    "Python.emp_date_02.executor": "Run",
-    "Python.emp_tax.executor": "Run",
-    "Python.emp_tax_01.executor": "Run",
-    "Python.ex1.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.ex3.executor": "Run",
-    "Python.from_excel_to_chart.executor": "Run",
-    "Python.go_to_custom_date_04.executor": "Run",
-    "Python.grade_hw_1.executor": "Run",
-    "Python.hm.ex.4.executor": "Run",
-    "Python.hm2.executor": "Run",
-    "Python.hm3.executor": "Run",
-    "Python.hm4.executor": "Run",
-    "Python.hm5.executor": "Run",
-    "Python.hm6.executor": "Run",
-    "Python.hw.ex.89999.executor": "Run",
-    "Python.hw.executor": "Run",
-    "Python.hw7.executor": "Run",
-    "Python.hw_1.executor": "Run",
-    "Python.hw_5252.executor": "Run",
-    "Python.hw_new_1.executor": "Run",
-    "Python.hw_new_10.executor": "Run",
-    "Python.hw_new_11.executor": "Run",
-    "Python.hw_new_12.executor": "Run",
-    "Python.hw_new_13.executor": "Run",
-    "Python.hw_new_14.executor": "Run",
-    "Python.hw_new_15.executor": "Run",
-    "Python.hw_new_16.executor": "Run",
-    "Python.hw_new_17.executor": "Run",
-    "Python.hw_new_18.executor": "Run",
-    "Python.hw_new_19.executor": "Run",
-    "Python.hw_new_2.executor": "Run",
-    "Python.hw_new_20.executor": "Run",
-    "Python.hw_new_3.executor": "Run",
-    "Python.hw_new_4.executor": "Run",
-    "Python.hw_new_5.executor": "Run",
-    "Python.hw_new_6.executor": "Run",
-    "Python.hw_new_7.executor": "Run",
-    "Python.hw_new_8.executor": "Run",
-    "Python.hw_new_9.executor": "Run",
-    "Python.ips_list_tuples_02.executor": "Run",
-    "Python.library_hw_03.executor": "Run",
-    "Python.lists_loop_02.executor": "Run",
-    "Python.lists_of_dicts_05.executor": "Run",
-    "Python.lists_operation_01.executor": "Run",
-    "Python.loops_dict_02.executor": "Run",
-    "Python.loops_operation_01.executor": "Run",
-    "Python.max_mi_list_05.executor": "Run",
-    "Python.max_min_numbers_05.executor": "Run",
-    "Python.merge_lists_03.executor": "Run",
-    "Python.multiplty_list_04.executor": "Run",
-    "Python.nested_list04.executor": "Run",
-    "Python.numbers_divisible_1.executor": "Run",
-    "Python.odd_even_hw_1.executor": "Run",
-    "Python.oldest_date_01 .executor": "Run",
-    "Python.order_descount.executor": "Run",
-    "Python.order_descount_03.executor": "Run",
-    "Python.order_string_06.executor": "Run",
-    "Python.palind_string_05.executor": "Run",
-    "Python.palindrome_string_02.executor": "Run",
-    "Python.password_validation_02.executor": "Run",
-    "Python.person_dict_hw_02.executor": "Run",
-    "Python.pos_neg_list_03.executor": "Run",
-    "Python.positive_numbers_04.executor": "Run",
-    "Python.prime_number_03.executor": "Run",
-    "Python.primes in range_06.executor": "Run",
-    "Python.program_to_construct_0.executor": "Run",
-    "Python.q01.executor": "Run",
-    "Python.q01_count_word_occur.executor": "Run",
-    "Python.q01_pattern.executor": "Run",
-    "Python.q01_rectangle_area.executor": "Run",
-    "Python.q02_capitalize_first_last.executor": "Run",
-    "Python.q03_loop_double_lists.executor": "Run",
-    "Python.q03_prime_number.executor": "Run",
-    "Python.q03_upper_half.executor": "Run",
-    "Python.q04_positive_numbers.executor": "Run",
-    "Python.q04_remove_dupl_words.executor": "Run",
-    "Python.q05_palind_string.executor": "Run",
-    "Python.q06_order_string.executor": "Run",
-    "Python.read_date_01.executor": "Run",
-    "Python.read_excel_to_list_02.executor": "Run",
-    "Python.read_file_to_list_01.executor": "Run",
-    "Python.read_filter_excel_03.executor": "Run",
-    "Python.read_write_files_03.executor": "Run",
-    "Python.rectangle_area_01.executor": "Run",
-    "Python.remove_dupl_words_04.executor": "Run",
-    "Python.remove_duplicate_list_05.executor": "Run",
-    "Python.remove_duplicates_01.executor": "Run",
-    "Python.remove_signs_04.executor": "Run",
-    "Python.reverse_string_05.executor": "Run",
-    "Python.shopping_cart_hw_04.executor": "Run",
-    "Python.solve_program_11.executor": "Run",
-    "Python.solve_program_12.executor": "Run",
-    "Python.solve_program_13.executor": "Run",
-    "Python.solve_program_14.executor": "Run",
-    "Python.solve_program_15.executor": "Run",
-    "Python.solve_program_16.executor": "Run",
-    "Python.solve_program_17.executor": "Run",
-    "Python.solve_program_18.executor": "Run",
-    "Python.solve_program_19.executor": "Run",
-    "Python.solve_program_20.executor": "Run",
-    "Python.specific_column_03..executor": "Run",
-    "Python.sqrt_program_03.executor": "Run",
-    "Python.string_operations_01.executor": "Run",
-    "Python.sum_even_numbers_03.executor": "Run",
-    "Python.sum_salary_02.executor": "Run",
-    "Python.swap_commes_03.executor": "Run",
-    "Python.swap_hw_2.executor": "Run",
-    "Python.test_functions_01.executor": "Run",
-    "Python.the_same_month_04.executor": "Run",
-    "Python.total_salary_02 (1).executor": "Run",
-    "Python.total_salary_02.executor": "Run",
-    "Python.tuples_operations_01.executor": "Run",
-    "Python.tuples_to_dict_01.executor": "Run",
-    "Python.upper_half_02.executor": "Run",
-    "Python.upper_half_03.executor": "Run",
-    "Python.working_day_count_06.executor": "Run",
-    "Python.write_date_02.executor": "Run",
-    "Python.write_list__to_file_02.executor": "Run",
-    "Python.write_list_to_excel_01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Calculate_Sum_and_Average_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Count_occurrences_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Loop_lists_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.addition_date_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.age_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.age_program02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assgin_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.average_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bonus_hw_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator_function_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator_hw_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capitalize_first_last_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capitalize_first_last_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circle_program_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combine_dicts_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.combine_dicts_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_male_female_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_occurence_hw_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_weakends_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_word_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_word_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_between_two_dates_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_difference_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_range_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date_time_operations_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dick_operation_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.element_exist_list_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emp_date_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emp_tax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emp_tax_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.from_excel_to_chart.executor&quot;: &quot;Run&quot;,
+    &quot;Python.go_to_custom_date_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.grade_hw_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm.ex.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw.ex.89999.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_5252.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw_new_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ips_list_tuples_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.library_hw_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists_loop_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists_of_dicts_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists_operation_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops_dict_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops_operation_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_mi_list_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.max_min_numbers_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_lists_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiplty_list_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested_list04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers_divisible_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.odd_even_hw_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oldest_date_01 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.order_descount.executor&quot;: &quot;Run&quot;,
+    &quot;Python.order_descount_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.order_string_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palind_string_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome_string_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_validation_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.person_dict_hw_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pos_neg_list_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.positive_numbers_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primes in range_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.program_to_construct_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q01_count_word_occur.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q01_pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q01_rectangle_area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q02_capitalize_first_last.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q03_loop_double_lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q03_prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q03_upper_half.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q04_positive_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q04_remove_dupl_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q05_palind_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.q06_order_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_date_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_excel_to_list_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_file_to_list_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_filter_excel_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_write_files_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle_area_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_dupl_words_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicate_list_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_duplicates_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_signs_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_string_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping_cart_hw_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.solve_program_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.specific_column_03..executor&quot;: &quot;Run&quot;,
+    &quot;Python.sqrt_program_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_operations_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_even_numbers_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum_salary_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_commes_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swap_hw_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_functions_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.the_same_month_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.total_salary_02 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.total_salary_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples_operations_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples_to_dict_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.upper_half_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.upper_half_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.working_day_count_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_date_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_list__to_file_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_list_to_excel_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.yahia.101.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Documents\My ISO Files\PyCharm Community Edition 2024.1.1\jbr\bin\grp22-level1-project\pythonProject\homework\if_condition" />
@@ -305,7 +194,7 @@
       <recent name="C:\Users\HP\Documents\My ISO Files\PyCharm Community Edition 2024.1.1\jbr\bin\grp22-level1-project\pythonProject\homework\dict" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.age_program02">
     <configuration name="age_program02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
