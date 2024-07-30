@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e424a59-bc99-4237-83ec-373063855b0f" name="Changes" comment="">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/yahia.102.txt" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_excel_to_list_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_excel_to_list_02.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/Count_occurrences_03.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/Count_occurrences_03.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_between_two_dates_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_between_two_dates_02.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_range_05.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_range_05.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/the_same_month_04.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/the_same_month_04.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/Calculate_Sum_and_Average_01.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/Calculate_Sum_and_Average_01.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/csv_validate_password_04.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/csv_validate_password_04.py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/specific_column_03..py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/specific_column_03..py" afterDir="false" />
+      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/validate_password_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/validate_password_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +64,7 @@
     &quot;Python.count_weakends_05.executor&quot;: &quot;Run&quot;,
     &quot;Python.count_word_0.executor&quot;: &quot;Run&quot;,
     &quot;Python.count_word_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.csv_validate_password_04.executor&quot;: &quot;Run&quot;,
     &quot;Python.date_between_two_dates_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.date_difference_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.date_range_05.executor&quot;: &quot;Run&quot;,
@@ -176,13 +187,16 @@
     &quot;Python.tuples_to_dict_01.executor&quot;: &quot;Run&quot;,
     &quot;Python.upper_half_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.upper_half_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.validate_password_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.working_day_count_06.executor&quot;: &quot;Run&quot;,
     &quot;Python.write_date_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.write_list__to_file_02.executor&quot;: &quot;Run&quot;,
     &quot;Python.write_list_to_excel_01.executor&quot;: &quot;Run&quot;,
     &quot;Python.yahia.101.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;dev-branch&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/PycharmProjects/snake_game_2/Snake-Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.gutterIcons&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -194,8 +208,8 @@
       <recent name="C:\Users\HP\Documents\My ISO Files\PyCharm Community Edition 2024.1.1\jbr\bin\grp22-level1-project\pythonProject\homework\dict" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.age_program02">
-    <configuration name="age_program02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Count_occurrences_03">
+    <configuration name="Count_occurrences_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,11 +218,55 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/condatinals_03" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/condatinals_03/age_program02.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time/Count_occurrences_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date_between_two_dates_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time/date_between_two_dates_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date_range_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/homework/date_time/date_range_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -231,50 +289,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/files_11/excel_csv_03/read_excel_to_list_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="read_write_files_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/files_11/basic_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/files_11/basic_01/read_write_files_03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="working_day_count_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/date_time_10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/jbr/bin/$PROJECT_DIR$/date_time_10/working_day_count_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Count_occurrences_03" />
+        <item itemvalue="Python.date_range_05" />
+        <item itemvalue="Python.date_between_two_dates_02" />
         <item itemvalue="Python.read_excel_to_list_02" />
         <item itemvalue="Python.write_list__to_file_02" />
-        <item itemvalue="Python.age_program02" />
-        <item itemvalue="Python.working_day_count_06" />
-        <item itemvalue="Python.read_write_files_03" />
       </list>
     </recent_temporary>
   </component>

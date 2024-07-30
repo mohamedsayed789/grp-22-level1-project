@@ -9,7 +9,7 @@ given_date = datetime(2023, 6, 15)
 is_found = False
 
 for item in start_date, end_date:
-    if given_date > start_date or given_date < end_date:
+    if given_date > start_date and given_date < end_date:
         print('given date falls between two dates')
         is_found = True
         break

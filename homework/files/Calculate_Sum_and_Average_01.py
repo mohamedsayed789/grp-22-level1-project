@@ -3,20 +3,14 @@
 new_list = []
 
 with open('C:\\my_files\\read_date_number.txt', 'r') as my_file_reference:
-    number_list = my_file_reference.readlines()
-    print(number_list)
-    for item in number_list:
+    pen_reader = my_file_reference.readlines()
+    print(pen_reader)
+    for item in pen_reader:
         item = item.strip()
-        new_list.append(item)
+        new_list.append(int(item))
 
 print(new_list)
-new_list = sum(new_list)
-print(new_list)
-
-
-
-
-
-
-
-
+total = sum(new_list)
+print(total)
+average = total / len(new_list)
+print(average)

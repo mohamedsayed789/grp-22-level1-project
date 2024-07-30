@@ -6,12 +6,9 @@ from dateutil.relativedelta import relativedelta
 start_range = datetime(2023, 1, 1)
 end_range = datetime(2023, 1, 10)
 list_dates = []
-for item in start_range, end_range:
-    if start_range < end_range:
-        list_dates.append(item.date())
+date_range = 0
+while start_range < end_range:
+        date_range = date_range + relativedelta(days=1)
+        list_dates.append(date_range)
 
-print(list_dates)
-
-
-
-
+print(date_range)
