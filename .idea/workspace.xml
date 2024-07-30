@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e424a59-bc99-4237-83ec-373063855b0f" name="Changes" comment="">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/lists_04/yahia.102.txt" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_excel_to_list_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/files_11/excel_csv_03/read_excel_to_list_02.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/Count_occurrences_03.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/Count_occurrences_03.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_between_two_dates_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_between_two_dates_02.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_range_05.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/date_range_05.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/the_same_month_04.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/date_time/the_same_month_04.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/Calculate_Sum_and_Average_01.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/Calculate_Sum_and_Average_01.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/csv_validate_password_04.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/csv_validate_password_04.py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/specific_column_03..py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/specific_column_03..py" afterDir="false" />
-      <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/validate_password_02.py" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/grp22-level1-project/pythonProject/homework/files/validate_password_02.py" afterDir="false" />
-    </list>
+    <list default="true" id="4e424a59-bc99-4237-83ec-373063855b0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
